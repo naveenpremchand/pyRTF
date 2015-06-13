@@ -2,9 +2,9 @@
 
 RTF Generation using PyRTF
 
-Run the file rtf_print.py
-
 Create RTF folder in /home/username/Desktop 
+
+Run the file rtf_print.py
 
 Check out /home/username/Desktop/RTF/sample.rtf
 
